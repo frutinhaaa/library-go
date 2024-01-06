@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
-ruby '3.0.4'
+ruby '3.2.2'
 
 # rexml is not included with ruby 3, has to be installed separately
 gem 'rexml'
