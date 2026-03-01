@@ -10,7 +10,7 @@ Por vir.
 
 ### História
 
-A ideia surgiu de uma denúncia do meu professor Matheus (https://github.com/mofrof), em que ele expunha a dificuldade de gerenciamento de livros da biblioteca da escola, e, de todas as justas exposições da infraestrutura escolar, a que mais me interessou foi essa. Isso porque eu reconhecia o papel social de uma biblioteca escolar, principalmente no que diz respeito a formação técnica, social e política dos estudantes.
+A ideia surgiu de uma denúncia do meu professor Matheus (https://github.com/mofrof), em que ele expunha a dificuldade de gerenciamento de livros da biblioteca da escola. E, de todas as (justíssimas) exposições da precária infraestrutura escolar, a que mais me interessou foi essa. Isso porque eu reconhecia o papel social de uma biblioteca escolar, principalmente no que diz respeito a formação técnica, social e política dos estudantes.
 
 A minha proposta, na época para a minha equipe que tinha 4 membros, foi de criar um sistema de gerenciamento bibliotecário que fosse atrativo, não só para os profissionais que fossem trabalhar com ele, mas para os estudantes, que geralmente são jovens que tem pouco acesso e interesse a leitura.
 
@@ -31,5 +31,7 @@ Outro erro que cometemos, foi o de usar Sqlite3 como banco de dados, o que foi u
 ### Finalizando
 
 Esse repositório tem um valor muito grande pra mim, poder olhar o código que escrevi, as escolhas que tomei, as conquistas que tive, me trás muita alegria e otimismo, contrastando o profundo amadorismo com mais 2 anos de estudos e evolução pessoal. Dificilmente vou trazer atualizações fora um esforço pra fazer esse aplicativo ser compilável com mais facilidade, pois acho que o papel que ele tem pra mim já foi feito.
+
+Reconheço os erros que cometi, as más escolhas tomadas, mas também reconheço o contexto em que eu estava, não só de um jovem que estava fazendo seu primeiro sistema programático, como também de alguém que teve que correr contra o tempo, devido a pouca ajuda que teve, e em temerosa pressa.
 
 Obrigado pela leitura <3
