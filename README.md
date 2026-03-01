@@ -40,7 +40,7 @@ Reconheço os erros que cometi, as más escolhas tomadas, mas também reconheço
 
 ### Agradecimentos
 
-É inconsebível a gratidão que tenho por meus professores, em especial o professor Matheus já citado no texto, pelo o apoio que me deu durante 3 anos.
+É inconcebível a gratidão que tenho por meus professores, em especial o professor Matheus já citado no texto, pelo o apoio que me deu durante 3 anos.
 
 Aqui vem uma lista de nomes que acho importante citar:
 
