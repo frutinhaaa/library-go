@@ -12,7 +12,7 @@ Por vir.
 
 A ideia surgiu de uma denúncia do meu professor Matheus (https://github.com/mofrof), em que ele expunha a dificuldade de gerenciamento de livros da biblioteca da escola. E, de todas as (justíssimas) exposições da precária infraestrutura escolar, a que mais me interessou foi essa. Isso porque eu reconhecia o papel social de uma biblioteca escolar, principalmente no que diz respeito a formação técnica, social e política dos estudantes.
 
-A minha proposta, na época para a minha equipe que tinha 4 membros, foi de criar um sistema de gerenciamento bibliotecário que fosse atrativo, não só para os profissionais que fossem trabalhar com ele, mas para os estudantes, que geralmente são jovens que tem pouco acesso e interesse a leitura.
+A minha proposta na época, para a minha equipe que tinha 4 apenas membros (em contraste as outras que tinham em média 7, no mínimo), foi de criar um sistema de gerenciamento bibliotecário que fosse atrativo, não só para os profissionais que fossem trabalhar com ele, mas para os estudantes, que geralmente são jovens que tem pouco acesso e interesse a leitura.
 
 A ideia foi fortemente inspirada em aplicativos como duolingo, onde o aplicativo instiga pessoas de todas as idades a aprenderem um idioma novo apartir de pequenos exercícios e características gamificadas.
 
