@@ -1,8 +1,8 @@
 ### Library Go!
 
-Este é um projeto educacional que fiz com um colega durante o meu curso de Técnico em Desenvolvimento de Distemas na ETE-MFL (Escola Técnica Estadual Ministro Fernando Lyra) em Caruaru - PE. Nesse repositório, eu compartilho minhas ideias sobre o âmbito social que esse aplicativo tentava contribuir.
+Este é um projeto educacional que fiz com um colega durante o meu curso de Técnico em Desenvolvimento de Sistemas na ETE-MFL (Escola Técnica Estadual Ministro Fernando Lyra) em Caruaru - PE. Nesse repositório, eu compartilho minhas ideias sobre o âmbito social que esse aplicativo tentava contribuir.
 
-Atualmente, esse repositório é apenas um Backup, pra guardar esse projeto que me é muito importante pra mim.
+Atualmente, esse repositório é apenas um Backup, pra guardar esse projeto que me é muito importante pra mim, sem possibilidade de atualizações no momento.
 
 ### Instruções de Execução
 
