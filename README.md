@@ -44,6 +44,6 @@ Reconheço os erros que cometi, as más escolhas tomadas, mas também reconheço
 
 Aqui vem uma lista de nomes que acho importante citar:
 
-Marcos (professor de história)
-Felipe (professor de filosofia)
-Gabriel (coordenador)
+- Marcos (professor de história)
+- Felipe (professor de filosofia)
+- Gabriel (coordenador)
