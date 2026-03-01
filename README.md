@@ -1,4 +1,4 @@
-### Library Go!
+# Library Go!
 
 Este é um projeto educacional que fiz com um colega durante o meu curso de Técnico em Desenvolvimento de Sistemas na ETE-MFL (Escola Técnica Estadual Ministro Fernando Lyra) em Caruaru - PE. Nesse repositório, eu compartilho minhas ideias sobre o âmbito social que esse aplicativo tentava contribuir.
 
